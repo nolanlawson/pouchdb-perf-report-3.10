@@ -7,7 +7,6 @@ All tests were performed on a 2013 MacBook Air running Yosemite, except those ma
 
 Without further ado, feast your eyes on some charts:
 
-![chart1](chart1.png)
 ![chart2](chart2.png)
 ![chart3](chart3.png)
 ![chart4](chart4.png)

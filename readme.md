@@ -9,13 +9,14 @@ Without further ado, feast your eyes on some charts. Takeaways are at the bottom
 
 ### Charts
 
-![chart2](chart2.png)
-![chart3](chart3.png)
-![chart4](chart4.png)
-![chart5](chart5.png)
-![chart6](chart6.png)
 ![chart7](chart7.png)
 ![chart8](chart8.png)
+![chart4](chart4.png)
+![chart5](chart5.png)
+![chart2](chart2.png)
+![chart6](chart6.png)
+
+
 
 ### My key takeaways
 
